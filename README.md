@@ -1,3 +1,5 @@
+![Juno Rover in a Quarry](Juno_Rover.jpg)
+
 * [English](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial#lunar-exploration-analogue-deployment-rover-data---a-tutorial-le-fran%C3%A7ais-suit) <br>
 * [Français](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial#d%C3%A9ploiement-dun-analogue-de-lexploration-lunaire-donn%C3%A9es-du-rover---un-tutoriel-english-precedes)
   
