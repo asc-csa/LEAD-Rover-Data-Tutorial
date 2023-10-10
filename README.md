@@ -1,4 +1,6 @@
-![Juno Rover in a Quarry](Juno_Rover.jpg)
+
+<img src="JUNO_Rover.jpg" width=90% >
+Image source / Source de l’image: https://www.asc-csa.gc.ca/eng/multimedia/search/image/7818?search=Juno%2BRover&type=1
 
 * [English](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial#lunar-exploration-analogue-deployment-rover-data---a-tutorial-le-fran%C3%A7ais-suit) <br>
 * [Français](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial#d%C3%A9ploiement-dun-analogue-de-lexploration-lunaire-donn%C3%A9es-du-rover---un-tutoriel-english-precedes)
@@ -25,14 +27,14 @@ You can read more about the mission here: <br>
       https://www.hou.usra.edu/meetings/isairas2020fullpapers/pdf/5015.pdf <br>
 
 ### About
-LEAD_Rover_Data_Tutorial.ipynb will guide the user on the steps to downloading and extracting the Rover data. Next, the tutorial will demonstrate how to open the data and save it as a CSV file, Point Cloud File or Image for further uses.
+LEAD_Rover_Data_Tutorial.ipynb will guide the user on the steps to downloading and extracting the Rover data. Next, the tutorial will demonstrate how to open the data, visualize and save it as a CSV file, Point Cloud File or Image for further uses.
 The last step involves creating a world map and plotting the rover's path and images taken on the path. 
 
 *** 
 ### Quick Start
 
 
-:exclamation: **Note:** If after the below steps you are unable to display the folium map, it may be required to run/re-start and/or install jupyter notebook into the same kernel that has the required packages.<br>
+:exclamation: **Note:** If after the below steps you are unable to display the folium map, it may be required to run/re-start jupyter notebook.<br>
 
 1. Setup a virtual environment or conda environment with the following version of python <br>
 ```
@@ -48,9 +50,9 @@ pip install -r requirements.txt
 ## Déploiement d'un Analogue de l'Exploration Lunaire Données du Rover - Un tutoriel (English precedes)
 
 ### Informations Générales
-Entre 2017 et 2019, l'Agence spatiale canadienne (ASC) s'est associée à l'Agence spatiale européenne (ESA) pour mener une série d'essais sur le terrain afin de reproduire les scénarios d'une mission de retour d'échantillons lunaires. Il s'agissait d'acquérir des connaissances et une expérience pratique pour préparer le prochain chapitre de l'exploration spatiale : envoyer des êtres humains vers des destinations plus lointaines comme la Lune et Mars.
+Entre 2017 et 2019, l'Agence Spatiale Canadienne (ASC) s'est associée à l'Agence Spatiale Européenne (ASE) pour mener une série d'essais sur le terrain afin de reproduire les scénarios d'une mission de retour d'échantillons lunaires. Il s'agissait d'acquérir des connaissances et une expérience pratique pour préparer le prochain chapitre de l'exploration spatiale : envoyer des êtres humains vers des destinations plus lointaines comme la Lune et Mars.
 
-Cette simulation de mission a été réalisée à l'aide du rover Juno de l'ASC, un rover robuste et tout-terrain. Ces essais sur le terrain ont été réalisés en trois phases à deux endroits : une carrière de roches et le Terrain analogue de l'ASC (également connu sous le nom de cour de triage de Mars) au Québec. Le rover a été utilisé par des équipes basées à Saint-Hubert (Québec) et en Allemagne afin de recréer la difficulté des communications longue distance.
+Cette simulation de mission a été réalisée à l'aide du rover Juno de l'ASC, un rover robuste et tout-terrain. Ces essais sur le terrain ont été réalisés en trois phases à deux endroits : une carrière de roches et le terrain analogue de l'ASC (également connu sous le nom de cour de Triage de Mars) au Québec. Le rover a été utilisé par des équipes basées à Saint-Hubert (Québec) et en Allemagne afin de recréer la difficulté des communications longue distance.
 
 Ce projet a été divisé comme suit :
 * **DEAL (HOPE)**: Il s'agissait de faire en sorte que des opérateurs formés effectuent des missions de retour d'échantillons. Il s'est déroulé sur cinq jours en octobre 2017 et sur quatre jours en juin 2019. 
@@ -65,13 +67,13 @@ Pour en savoir plus sur la mission, cliquez ici: <br>
       https://www.hou.usra.edu/meetings/isairas2020fullpapers/pdf/5015.pdf <br>
 
 ### Contexte
-LEAD_Rover_Data_Tutorial.ipynb guidera l'utilisateur dans les étapes de téléchargement et d'extraction des données Rover. Ensuite, le didacticiel montre comment ouvrir les données et les enregistrer sous forme de fichier CSV, de fichier de nuage de points ou d'image en vue d'utilisations ultérieures.
+LEAD_Rover_Data_Tutorial.ipynb guidera l'utilisateur dans les étapes de téléchargement et d'extraction des données Rover. Ensuite, le didacticiel montrera comment ouvrir les données, les visualiser et les enregistrer sous forme de fichier CSV, de nuage de points ou d'image pour des utilisations ultérieures.
 La dernière étape consiste à créer une carte du monde et à tracer la trajectoire du rover et les images prises sur cette trajectoire. 
 *** 
 ### Démarrage Rapide
 
 
-:exclamation: **Remarque:** Si, après avoir suivi les étapes ci-dessous, vous ne parvenez pas à afficher la carte du folium, il peut être nécessaire d'exécuter, de redémarrer et/ou d'installer *Jupyter Notebook* dans le même noyau que celui qui contient les paquets nécessaires.<br>
+:exclamation: **Remarque:** Si, après avoir suivi les étapes ci-dessous, vous ne parvenez pas à afficher la carte du folium, il peut être nécessaire d'exécuter/redémarrer *Jupyter Notebook*.<br>
 
 1. Installez un environnement virtuel ou un environnement conda avec la version suivante de python <br>
 ```
