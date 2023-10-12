@@ -20,10 +20,10 @@ Image source / Source de l’image: https://www.asc-csa.gc.ca/eng/multimedia/sea
     </a>
 </p>
 
-* [English](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial#rover-data---a-tutorial-le-fran%C3%A7ais-suit) <br>
-* [Français](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial#donn%C3%A9es-du-rover---un-tutoriel-english-precedes)
+* [English](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial#rover-data-from-ros-le-fran%C3%A7ais-suit) <br>
+* [Français](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial#donn%C3%A9es-de-rover-provenant-de-ros-english-precedes) 
   
-## Rover Data from ROS - A Tutorial (Le français suit)
+## Rover Data from ROS (Le français suit)
 This repository dives into the basics of extracting and analyzing data in the form of ROSBAGS in Python. <br>
 
 Specifically, LEAD_Rover_Data_Tutorial.ipynb will guide the user on the steps to downloading and extracting Juno Rover data from a lunar sample return mission replicate. Next, the tutorial will demonstrate how to open the data, visualize and save it as a CSV file, Point Cloud File or Image for further uses.
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 3. Begin the tutorial found in the LEAD_Rover_Data_Tutorial.ipynb file. 
 
 ***
-## Données de Rover provenant de ROS- Un tutoriel (English precedes)
+## Données de Rover provenant de ROS (English precedes)
 Ce cours aborde les bases de l'extraction et de l'analyse de données sous forme de ROSBAGS en Python. <br>
 
 Plus précisément, LEAD_Rover_Data_Tutorial.ipynb guidera l'utilisateur dans les étapes de téléchargement et d'extraction des données Rover Juno à partir d'une réplique de mission de retour d'échantillon lunaire. Ensuite, le didacticiel montrera comment ouvrir les données, les visualiser et les enregistrer sous forme de fichier CSV, de nuage de points ou d'image en vue d'utilisations ultérieures.
