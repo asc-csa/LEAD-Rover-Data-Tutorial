@@ -1,6 +1,7 @@
 
-<img src="JUNO_Rover.jpg" width=90% >
-Image source / Source de l’image: https://www.asc-csa.gc.ca/eng/multimedia/search/image/7818?search=Juno%2BRover&type=1 <br>
+<img src="JUNO_Rover.jpg" width=90% />
+Image source / Source de l’image: https://www.asc-csa.gc.ca/eng/multimedia/search/image/7818/
+<br>
 <br>
 <p align="center">
     <a href="#stars">
