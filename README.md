@@ -21,8 +21,8 @@ Image source / Source de l’image: https://www.asc-csa.gc.ca/eng/multimedia/sea
     </a>
 </p>
 
-* [English](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial#rover-data-from-ros-le-fran%C3%A7ais-suit) <br>
-* [Français](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial#donn%C3%A9es-de-rover-provenant-de-ros-english-precedes) 
+* [Français](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial#donn%C3%A9es-de-rover-provenant-de-ros-english-follows) <br>
+* [English](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial#rover-data-from-ros-le-fran%C3%A7ais-pr%C3%A9c%C3%A8de)
   
 ## Données de Rover provenant de ROS (English follows)
 Ce cours aborde les bases de l'extraction et de l'analyse de données sous forme de ROSBAGS en Python. <br>
