@@ -133,7 +133,7 @@ You can read more about the mission here: <br>
 
 > **Note:** If plots or maps do not display, restart Jupyter Notebook or run `%matplotlib inline` in the first cell.
 
-## Features
+## Functionality
 
  - [LEAD_Rover_Data_Tutorial.ipynb](LEAD_Rover_Data_Tutorial.ipynb) guides the user on the steps to downloading and extracting Juno Rover data from a lunar sample return mission replicate. Next, the tutorial will demonstrate how to open the data, visualize and save it as a CSV file, Point Cloud File or Image for further uses. The last step involves creating a world map and plotting the rover's path and images taken on the path. 
  
