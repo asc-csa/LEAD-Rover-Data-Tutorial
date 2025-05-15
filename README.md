@@ -48,7 +48,7 @@ https://www.hou.usra.edu/meetings/isairas2020fullpapers/pdf/5015.pdf <br>
 
 1. 📦 **Cloner le dépôt**
    ```bash
-   git clone [{{url_du_répertoire}}](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial.git)
+   git clone https://github.com/asc-csa/LEAD-Rover-Data-Tutorial.git
    cd LEAD-Rover-Data-Tutorial
    ```
 2. 🐍 **Créer un environnement**
@@ -109,7 +109,7 @@ You can read more about the mission here: <br>
 
 1. 📦 **Clone the repo**
    ```bash
-   git clone [{{repository_url}}](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial.git)
+   git clone https://github.com/asc-csa/LEAD-Rover-Data-Tutorial.git
    cd LEAD-Rover-Data-Tutorial
    ```
 2. 🐍 **Create environment**
