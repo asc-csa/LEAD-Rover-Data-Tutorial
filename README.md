@@ -27,7 +27,7 @@
 </h2>
 
 <a id="titre-du-projet"></a>
-# Données de Rover provenant de ROS (English follows)
+# Données de Rover provenant de ROS 
 
 > **Description brève :**
 > Ce cours aborde les bases de l'extraction et de l'analyse de données sous forme de ROSBAGS en Python.
