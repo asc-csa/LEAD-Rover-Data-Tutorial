@@ -1,6 +1,6 @@
 <!-- Placeholder for tutorial image (required) -->
 <p align="center">
-   <img src="https://www.asc-csa.gc.ca/images/recherche//hi-res/7298e672-f22d-4b6e-8829-b3beb9d7c80b.jpg" alt="JUNO Rover" height=300>
+   <img src="JUNO_Rover.jpg" alt="JUNO Rover" height=300>
    <br> Crédit d'image | Image credit: <a href="https://www.asc-csa.gc.ca/eng/multimedia/search/image/7818/">ASC-CSA</a>
 </p>
 
