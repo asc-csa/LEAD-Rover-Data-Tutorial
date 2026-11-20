@@ -103,7 +103,7 @@ conda env export --no-builds | grep -v "^prefix: " > environment.yml
    ```
 4. 🚀 **Lancer le tutoriel**
    ```bash
-   jupyter notebook LEAD_Rover_Data_Tutorial.ipynb
+   jupyter notebook "Code - FR/Tutoriel_de_Données_Rover_LEAD.ipynb"
    ```
 
 > **Remarque :** Si après avoir suivi les étapes ci-dessous, vous ne parvenez pas à afficher la carte du folium, il peut être nécessaire d'exécuter/redémarrer Jupyter Notebook.
@@ -113,9 +113,9 @@ conda env export --no-builds | grep -v "^prefix: " > environment.yml
 <!-- This can be useful if your tutorial contains several associated scripts or supporting functions (optional) -->
 ## Navigation et fichiers
 
-- **[LEAD_Rover_Data_Tutorial.ipynb](LEAD_Rover_Data_Tutorial.ipynb)** - Tutoriel principal qui guide l'utilisateur dans les étapes de téléchargement et d'extraction des données Rover Juno à partir d'une réplique de mission de retour d'échantillon lunaire. Montre comment ouvrir les données, les visualiser et les enregistrer sous différents formats.
+- **[Tutoriel_de_Données_Rover_LEAD.ipynb](Code%20-%20FR/Tutoriel_de_Donn%C3%A9es_Rover_LEAD.ipynb)** - Tutoriel principal qui guide l'utilisateur dans les étapes de téléchargement et d'extraction des données Rover Juno à partir d'une réplique de mission de retour d'échantillon lunaire. Montre comment ouvrir les données, les visualiser et les enregistrer sous différents formats.
 
-- **[ROSBAG_Cheat_Sheet_Python.ipynb](ROSBAG_Cheat_Sheet_Python.ipynb)** - Feuille de contrôle comprenant des astuces utiles pour manipuler les données ROS en utilisant uniquement Python.
+- **[Aide-Mémoire_Python_ROSBAG.ipynb](Code%20-%20FR/Aide-M%C3%A9moire_Python_ROSBAG.ipynb)** - Feuille de contrôle comprenant des astuces utiles pour manipuler les données ROS en utilisant uniquement Python.
 
 Pour en savoir plus sur la mission :
 - **Rover Juno :** https://www.asc-csa.gc.ca/eng/multimedia/search/image/7824
@@ -211,7 +211,7 @@ conda env export --no-builds | grep -v "^prefix: " > environment.yml
    ```
 4. 🚀 **Run the tutorial**
    ```bash
-   jupyter notebook LEAD_Rover_Data_Tutorial.ipynb
+   jupyter notebook "Code - EN/LEAD_Rover_Data_Tutorial.ipynb"
    ```
 
 > **Note:** If after the below steps you are unable to display the map, it may be required to run/re-start jupyter notebook.
@@ -221,9 +221,9 @@ conda env export --no-builds | grep -v "^prefix: " > environment.yml
 <!-- This can be useful if your tutorial contains several associated scripts or supporting functions (optional) -->
 ## Navigation and Files
 
-- **[LEAD_Rover_Data_Tutorial.ipynb](LEAD_Rover_Data_Tutorial.ipynb)** - Main tutorial that guides the user on the steps to downloading and extracting Juno Rover data from a lunar sample return mission replicate. Demonstrates how to open the data, visualize and save it as different file formats. The last step involves creating a world map and plotting the rover's path and images taken on the path.
+- **[LEAD_Rover_Data_Tutorial.ipynb](Code%20-%20EN/LEAD_Rover_Data_Tutorial.ipynb)** - Main tutorial that guides the user on the steps to downloading and extracting Juno Rover data from a lunar sample return mission replicate. Demonstrates how to open the data, visualize and save it as different file formats. The last step involves creating a world map and plotting the rover's path and images taken on the path.
 
-- **[ROSBAG_Cheat_Sheet_Python.ipynb](ROSBAG_Cheat_Sheet_Python.ipynb)** - Contains a cheatsheet including tips found useful when manipulating ROS data using only Python.
+- **[ROSBAG_Cheat_Sheet_Python.ipynb](Code%20-%20EN/ROSBAG_Cheat_Sheet_Python.ipynb)** - Contains a cheatsheet including tips found useful when manipulating ROS data using only Python.
 
 You can read more about the mission here:
 - **Juno Rover:** https://www.asc-csa.gc.ca/eng/multimedia/search/image/7824
